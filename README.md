@@ -1,5 +1,8 @@
 # Business-Scenario-and-Solution-Synthetic-Data-Generator
 
+![DALL·E 2024-07-20 22 48 21 - A cooler, more modern minimalistic logo for a business data tool, featuring an abstract digital globe composed of interconnected nodes and data stream](https://github.com/user-attachments/assets/295c7ced-2e85-4865-9812-bbf2e02e09d0)
+
+
 Welcome to the **Business-Scenario-and-Solution-Synthetic-Data-Generator**! Harness the power of cutting-edge language models, including OpenAI's GPT-4o and Anthropic's Claude 3.5 Sonnet and Claude 3 Opus, to generate dynamic and sophisticated business scenarios and solutions.
 
 🚀 **Features**
