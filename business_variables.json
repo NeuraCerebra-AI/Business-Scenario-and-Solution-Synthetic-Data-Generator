@@ -1,0 +1,141 @@
+{
+    "company_profile": {
+      "industry": [
+        "technology",
+        "healthcare",
+        "finance",
+        "retail",
+        "manufacturing",
+        "energy",
+        "telecommunications",
+        "media",
+        "real estate",
+        "consulting"
+      ],
+      "size": [
+        "small (1-50 employees)",
+        "medium (51-500 employees)", 
+        "large (501-5000 employees)",
+        "enterprise (5000+ employees)"
+      ],
+      "age": [
+        "startup (0-5 years)",
+        "growth (6-10 years)",
+        "mature (11-30 years)",
+        "legacy (30+ years)"  
+      ],
+      "ownership_structure": [
+        "public",
+        "private",
+        "family-owned",
+        "venture-backed",
+        "private equity-owned"
+      ],
+      "geographic_scope": [
+        "local",
+        "regional", 
+        "national",
+        "international"
+      ]
+    },
+    "financial_situation": {
+      "profitability": [
+        "loss-making",
+        "breakeven",
+        "profitable",
+        "highly profitable"  
+      ],
+      "revenue_growth": [
+        "negative",
+        "stagnant (0-5%)",
+        "moderate (6-15%)", 
+        "high (16-30%)",
+        "explosive (30%+)"
+      ],
+      "funding_stage": [
+        "pre-seed",
+        "seed",
+        "series A",
+        "series B",
+        "series C+",
+        "pre-IPO", 
+        "IPO"
+      ]
+    },
+    "market_environment": {
+      "growth_stage": [
+        "emerging",
+        "growing",
+        "mature",
+        "declining"
+      ],
+      "competitive_landscape": [
+        "fragmented",
+        "consolidated", 
+        "monopolistic",
+        "duopolistic"
+      ],
+      "regulatory_environment": [
+        "unregulated",
+        "lightly regulated",
+        "moderately regulated",
+        "heavily regulated"
+      ]
+    },
+    "strategic_focus": {
+      "key_strategic_assets": [
+        "brand",
+        "intellectual property",
+        "data and analytics",
+        "network effects",
+        "economies of scale",
+        "customer relationships"
+      ],
+      "innovation_focus": [
+        "low",
+        "moderate",
+        "high" 
+      ],
+      "main_strategic_challenges": [
+        "market share growth",
+        "product innovation",  
+        "operational efficiency",
+        "talent acquisition and retention",
+        "digital transformation",
+        "regulatory compliance", 
+        "sustainability and ESG"
+      ]
+    },
+    "leadership_and_culture": {
+      "management_team_experience": [ 
+        "low (0-5 years)",
+        "moderate (6-15 years)",
+        "high (16+ years)"
+      ],
+      "board_composition": [
+        "founder-controlled",
+        "investor-controlled",
+        "independent-majority"  
+      ],
+      "corporate_culture": [
+        "hierarchical",
+        "entrepreneurial", 
+        "collaborative",
+        "results-driven",
+        "innovation-focused",
+        "socially-conscious"
+      ] 
+    },
+    "risk_factors": [
+      "industry disruption",
+      "geopolitical instability",
+      "cybersecurity threats",
+      "supply chain disruptions", 
+      "regulatory changes",
+      "talent shortages",
+      "reputational damage",
+      "financial instability", 
+      "legal liabilities",
+      "environmental risks"
+    ]
+   }
