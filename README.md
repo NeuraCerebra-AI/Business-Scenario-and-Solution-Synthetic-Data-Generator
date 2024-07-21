@@ -13,19 +13,23 @@ Welcome to the **Business-Scenario-and-Solution-Synthetic-Data-Generator**! Harn
 - **Model Flexibility**: Supports a variety of language models to offer diverse cognitive perspectives.
 
 🛠️ **Installation**
-## Clone the repository
+
+### Clone the repository
+
 git clone https://github.com/PixelPoser/Business-Scenario-and-Solution-Synthetic-Data-Generator.git
 
-## Install the required dependencies
+### Install the required dependencies
+
 pip install -r requirements.txt
 
-## Set up your API keys by replacing api_key="" with your actual API keys in their respective generator files.
+### Set up your API keys by replacing api_key="" with your actual API keys in their respective generator files.
 
 💼 **Usage**
-## Run the generator script for OpenAI GPT-4o
+
+### Run the generator script for OpenAI GPT-4o
 python3 generator_gpt4o.py
 
-## Run the generator script for Anthropic Claude models
+### Run the generator script for Anthropic Claude models
 python3 generator_claude.py
 
 Outputs are saved in the `ceo_qa_data.json` file, ready for strategic application in business planning, classroom settings, or executive training modules.
