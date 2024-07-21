@@ -5,14 +5,14 @@
 
 Welcome to the **Business-Scenario-and-Solution-Synthetic-Data-Generator**! Harness the power of cutting-edge language models, including OpenAI's GPT-4o and Anthropic's Claude 3.5 Sonnet and Claude 3 Opus, to generate dynamic and sophisticated business scenarios and solutions.
 
-🚀 **Features**
+# 🚀 **Features**
 - **Dynamic Scenario Generation**: Crafts unique and realistic business scenarios tailored by a broad spectrum of variables.
 - **Graduate-Level Questions**: Generates thought-provoking questions suitable for academic discussion and critical analysis.
 - **Strategic Solutions**: Delivers detailed, strategic answers crafted by top-tier AI models.
 - **Intelligent Prompt Engineering**: Employs advanced techniques for prompt construction ensuring high-quality outputs.
 - **Model Flexibility**: Supports a variety of language models to offer diverse cognitive perspectives.
 
-🛠️ **Installation**
+# 🛠️ **Installation**
 
 ### Clone the repository
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ### Set up your API keys by replacing api_key="" with your actual API keys in their respective generator files.
 
-💼 **Usage**
+# 💼 **Usage**
 
 ### Run the generator script for OpenAI GPT-4o
 python3 generator_gpt4o.py
@@ -34,18 +34,18 @@ python3 generator_claude.py
 
 Outputs are saved in the `ceo_qa_data.json` file, ready for strategic application in business planning, classroom settings, or executive training modules.
 
-🧩 **Customization**
+# 🧩 **Customization**
 - Modify the `business_variables.json` file to tailor the scenario generation variables.
 - Adjust the prompts within the generator scripts to fine-tune responses to your specific needs.
 
-📋 **License**
+# 📋 **License**
 - This project is open-source and licensed under the MIT License.
 
-🌟 **Acknowledgements**
+# 🌟 **Acknowledgements**
 - Thanks to OpenAI for the GPT-4o language model.
 - Thanks to Anthropic for the Claude 3.5 Sonnet and Claude 3 Opus models.
 
-🤝 **Contributing**
+# 🤝 **Contributing**
 - Contributions are highly encouraged! For improvements, ideas, or issues, please open an issue or submit a pull request.
 
 **Elevate your business strategy discussions with the Business-Scenario-and-Solution-Synthetic-Data-Generator! Innovate, strategize, and lead. 🌐💡🚀**
